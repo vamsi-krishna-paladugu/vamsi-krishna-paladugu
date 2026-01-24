@@ -20,4 +20,4 @@ Backend-focused engineer specializing in building scalable, reliable systems wit
 - Scalable backend and system design
 
 📫 **Connect:**  
-LinkedIn: <http://linkedin.com/in/vamsikrishn12>
+LinkedIn: <https://www.linkedin.com/in/vamsikrishn12>
