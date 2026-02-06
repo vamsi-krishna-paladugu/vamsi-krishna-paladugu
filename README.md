@@ -18,6 +18,3 @@ Backend-focused engineer specializing in building scalable, reliable systems wit
 - Multithreading and concurrency in Java  
 - JVM memory management and performance tuning  
 - Scalable backend and system design
-
-📫 **Connect:**  
-LinkedIn: <https://www.linkedin.com/in/vamsikrishna12>
